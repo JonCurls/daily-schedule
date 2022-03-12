@@ -18,7 +18,7 @@ https://joncurls.github.io/daily-schedule/
 
 
 ## Thumbnail
-![Screenshot](assets/images/thumbnail.PNG)
+![Screenshot](./Assets/images/thumbnail.PNG)
 
 
 ## Creator
